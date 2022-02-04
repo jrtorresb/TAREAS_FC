@@ -1,0 +1,5 @@
+titulo|anio|genero(s)|protagonista(s)|director(es)
+The Godfather|1972|Drama, Crimen|Marlon Brando, Al Pacino|Francis Ford Coppola
+The Dark Knight|2008|Accion, Crimen, Drama|Christian Bale, Heath Ledger, Aaron Eckhart|Christopher Nolan
+Pulp Fiction|1994|Crimen, Drama|John Travolta, Uma Thurman, Samuel L. Jackson|Quentin Tarantino
+Fight Club|1999|Drama|Brad Pitt, Edward Norton, Meat Loaf

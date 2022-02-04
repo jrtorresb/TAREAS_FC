@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <titulo>The Godfather</titulo>
+    <anio>1972</anio>
+    <genero(s)>Drama, Crimen</genero(s)>
+    <protagonista(s)>Marlon Brando, Al Pacino</protagonista(s)>
+    <director(es)>Francis Ford Coppola</director(es)>
+  </row>
+  <row>
+    <titulo>The Dark Knight</titulo>
+    <anio>2008</anio>
+    <genero(s)>Accion, Crimen, Drama</genero(s)>
+    <protagonista(s)>Christian Bale, Heath Ledger, Aaron Eckhart</protagonista(s)>
+    <director(es)>Christopher Nolan</director(es)>
+  </row>
+  <row>
+    <titulo>Pulp Fiction</titulo>
+    <anio>1994</anio>
+    <genero(s)>Crimen, Drama</genero(s)>
+    <protagonista(s)>John Travolta, Uma Thurman, Samuel L. Jackson</protagonista(s)>
+    <director(es)>Quentin Tarantino</director(es)>
+  </row>
+  <row>
+    <titulo>Fight Club</titulo>
+    <anio>1999</anio>
+    <genero(s)>Drama</genero(s)>
+    <protagonista(s)>Brad Pitt, Edward Norton, Meat Loaf</protagonista(s)>
+    <director(es)/>
+  </row>
+</root>

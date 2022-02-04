@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "The Godfather",
+        "anio": 1972,
+        "genero(s)": "Drama, Crimen",
+        "protagonista(s)": "Marlon Brando, Al Pacino",
+        "director(es)": "Francis Ford Coppola"
+    },
+    {
+        "titulo": "The Dark Knight",
+        "anio": 2008,
+        "genero(s)": "Accion, Crimen, Drama",
+        "protagonista(s)": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "director(es)": "Christopher Nolan"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "anio": 1994,
+        "genero(s)": "Crimen, Drama",
+        "protagonista(s)": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "director(es)": "Quentin Tarantino"
+    },
+    {
+        "titulo": "Fight Club",
+        "anio": 1999,
+        "genero(s)": "Drama",
+        "protagonista(s)": "Brad Pitt, Edward Norton, Meat Loaf",
+        "director(es)": null
+    }
+]
